@@ -1,4 +1,4 @@
-# Snakes-Game
+# Snake-Game
 This is a traditional Snakes game built using Python.
 
 ## Installation
