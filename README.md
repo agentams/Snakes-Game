@@ -1,5 +1,5 @@
 # Snake-Game
-This is a traditional Snakes game built using Python.
+This is a traditional Snake game built using Python.
 
 ## Installation
 
